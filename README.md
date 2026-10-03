@@ -45,6 +45,45 @@ Machine Learning-Based Recognition
 ↓  
 Platform Recognition & Maneuver Recognition
 
+## Selected Research Visualizations
+
+### Acoustic Feature-Space Analysis
+
+The study employs dimensionality-reduction techniques to examine the
+structure and separability of UAV acoustic feature representations.
+
+The following UMAP visualization provides a two-dimensional view of the
+acoustic feature space across the UAV platforms considered in the study.
+
+<p align="center">
+  <img src="/umap-platform-acoustic-features.png"
+       alt="UMAP visualization of UAV platform acoustic features"
+       width="850">
+</p>
+
+<p align="center">
+  <em>Selected visualization from the study: UMAP projection of UAV platform acoustic features.</em>
+</p>
+
+### Platform-Conditioned Maneuver Recognition
+
+The hierarchical framework also investigates maneuver recognition in a
+platform-conditioned setting, where maneuver classification is evaluated
+with respect to individual UAV platforms.
+
+Performance is evaluated using Macro-F1 to account for classification
+performance across the maneuver classes.
+
+<p align="center">
+  <img src="/platform-conditioned-maneuver-performance.png"
+       alt="Platform-conditioned UAV maneuver classification performance"
+       width="850">
+</p>
+
+<p align="center">
+  <em>Selected experimental result from the study: platform-conditioned maneuver classification performance.</em>
+</p>
+
 ## Research Team
 
 This work was developed collaboratively by two project contributors under academic supervision.
