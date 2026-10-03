@@ -45,13 +45,24 @@ Machine Learning-Based Recognition
 ↓  
 Platform Recognition & Maneuver Recognition
 
+## Research Team
+
+This work was developed collaboratively by two project contributors under academic supervision.
+
+- **Academic Advisor:** Ömer Yaman
+- **Research Project Contributor:** Nil Nida Yaman
+- **Research Project Contributor:** Eda Kaya
+
+Both project contributors will represent the research at IAC 2026.
+
 ## My Involvement
 
-I contributed to this research project as a team member, particularly during
-the later stages of the study, including the organization and preparation of
-research outputs and supporting project materials.
+As a research project contributor, I was primarily involved in the later
+stages of the study, supporting the organization and preparation of research
+outputs, structured project materials, and documentation.
 
-I am also involved in presenting and communicating the work for IAC 2026.
+I also contributed to preparing the work for its IAC 2026 presentation and
+will represent the project at the congress together with my teammate.
 
 The research was conducted collaboratively under academic supervision.
 This repository is therefore intended to document my involvement with the
