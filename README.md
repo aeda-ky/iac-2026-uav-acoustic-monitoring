@@ -56,7 +56,7 @@ The following UMAP visualization provides a two-dimensional view of the
 acoustic feature space across the UAV platforms considered in the study.
 
 <p align="center">
-  <img src="/umap-platform-acoustic-features.png"
+  <img src="assets/umap-platform-acoustic-features.png"
        alt="UMAP visualization of UAV platform acoustic features"
        width="850">
 </p>
@@ -75,7 +75,7 @@ Performance is evaluated using Macro-F1 to account for classification
 performance across the maneuver classes.
 
 <p align="center">
-  <img src="/platform-conditioned-maneuver-performance.png"
+  <img src="assets/platform-conditioned-maneuver-performance.png"
        alt="Platform-conditioned UAV maneuver classification performance"
        width="850">
 </p>
